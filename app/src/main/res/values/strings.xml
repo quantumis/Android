@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">COMP_Firm</string>
+    <string name="model">Модель: </string>
+    <string name="quantity">Кол-во: </string>
+    <string name="price">Цена: </string>
+    <string name="manufacturer">Производитель: </string>
+    <string name="category">Категория: </string>
+</resources>
